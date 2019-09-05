@@ -86,7 +86,7 @@ sideProjects:
     link: https://github.com/kayvanbree/f10k
     type: github
     langs: Angular/Spring Boot
-    
+
   - name: Contexr
     description: An Angular library that can be used to create context menus.
     link: https://github.com/kayvanbree/contexr
