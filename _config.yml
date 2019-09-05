@@ -1,12 +1,12 @@
 remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this theme)
 
 # Edit your preferences below 
-title: John Doe
+title: Kay van Bree
 subtitle: Full Stack Web Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
+  Lalallala
 
-url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://kayvanbree.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -22,11 +22,11 @@ urls:
 # Edit these details 
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Kay van Bree
+author_bio: Bio.  
+author_email: "kayvanbree@gmail.com"
+author_location: The Netherlands
+author_website_url: "https://kayvanbree.github.io"
 
 author_work_experiences: 
             - company_name: Google
@@ -34,12 +34,6 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
@@ -56,29 +50,24 @@ author_project_details:
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
-                visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# twitter_username: johndoe
+github_username:  kayvanbree
+# facebook_username: johndoe
+linkedin_username: kayvanbree
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu  
+# disqus_shortname: sujay-kundu  
 
 # wakatime username
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # syntax highlighter
 markdown: kramdown
