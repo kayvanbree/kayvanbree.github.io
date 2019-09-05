@@ -24,6 +24,38 @@ career:
 #   accomplishments:
 #    - accomplishment: asdf
 #    - accomplishment: asdf
+ - position: Software Engineer
+   company: Yacht
+   location: Zwolle, the Netherlands
+   dates: October 2017 - present
+   summary: Participant to the first MostDev talent program, a course by Capgemini.
+#   accomplishments:
+#    - accomplishment: asdf
+#    - accomplishment: asdf
+ - position: Project Engineer
+   company: NHL Hogeschool
+   location: Leeuwarden, the Netherlands
+   dates: September 2016 - September 2017
+   summary: As a project engineer at the NHL Centre of Expertise in Computer Science, I worked on automation using computer vision software.
+#   accomplishments:
+#    - accomplishment: asdf
+#    - accomplishment: asdf
+ - position: Graduate Software Engineer
+   company: Grendel Games
+   location: Leeuwarden, the Netherlands
+   dates: February 2016 - June 2016
+   summary: For my graduation, I worked on a interface building plugin for Unity 3D, which can be used to drag and drop GUI elements into the scene.
+#   accomplishments:
+#    - accomplishment: asdf
+#    - accomplishment: asdf
+ - position: Programming Intern
+   company: Codeglue
+   location: Rotterdam, the Netherlands
+   dates: September 2014 - January 2015
+   summary: As a programming intern I worked on the multi-platform game Terraria. At this internship I programmed C++ and Java, using JNI to communicate between these languages.
+#   accomplishments:
+#    - accomplishment: asdf
+#    - accomplishment: asdf
 
 technicalSkills:
 #  list:
