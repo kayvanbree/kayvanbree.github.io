@@ -129,7 +129,7 @@
                 </div>
 
                 <!-- CAREER -->
-                <div class="section">
+                <div class="section section-border">
                     <h2>Career</h2>
                     {% for item in site.data.cv.career %}
                     <div class="jd">
@@ -164,9 +164,10 @@
                 </div>
 
                 <!-- EDUCATION -->
-                <div class="section">
+                <div class="section section-border">
                     <h2>Education</h2>
                     {% for item in site.data.cv.education %}
+                    <div class="jd">
                     <div class="row">
                         <div class="col-xs-12">
                             <h4><b>{{item.name}}</b></h4>
@@ -175,11 +176,12 @@
                         </div>
                         <div class="col-xs-12"><a href="{{item.link}}">{{item.link}}</a>, {{item.location}}</div>
                     </div>
+                    </div>
                     {% endfor %}
                 </div>
 
                 <!-- SIDE PROJECTS -->
-                <div class="section">
+                <div class="section section-border">
                     <h2>Side Projects</h2>
 
                     {% for item in site.data.cv.sideProjects %}
