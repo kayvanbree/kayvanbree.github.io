@@ -29,11 +29,16 @@ author_location: The Netherlands
 author_website_url: "https://kayvanbree.github.io"
 
 author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
+            - company_name: Van Meijel Automatisering
+#               company_logo: google.png
+              company_url: https://www.vanmeijel.nl/en/
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: We are working on building a new Angular frontend for an old Delphi application.
+              visibility: true
+            - company_name: Yacht
+              company_url: https://www.yacht.nl/
+              designation: Software Engineer
+              description: Participant to the first MostDev talent program, a course by Capgemini.
               visibility: true
 
 author_education_details:
@@ -42,14 +47,14 @@ author_education_details:
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
-                visibility: true
+                visibility: false
 
 author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
 
 # social links
 # twitter_username: johndoe
@@ -75,7 +80,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10 
+# google_analytics: UA-46783401-10 
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
