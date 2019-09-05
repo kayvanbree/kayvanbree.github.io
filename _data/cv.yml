@@ -22,45 +22,49 @@ career:
    location: Emmeloord, the Netherlands
    dates: January 2018 - present
    summary: We are working on building a new Angular frontend for an old Delphi application.
-#   accomplishments:
-#    - accomplishment: asdf
-#    - accomplishment: asdf
+   accomplishments:
+    - accomplishment: Written several Angular libraries
+    - accomplishment: Set up Jenkins declarative pipelines for all projects
+    - accomplishment: Migrated all Angular projects from SVN to Git
+
  - position: Software Engineer
    company: Yacht
    location: Zwolle, the Netherlands
    dates: October 2017 - present
    summary: Participant to the first MostDev talent program, a course by Capgemini.
-#   accomplishments:
-#    - accomplishment: asdf
-#    - accomplishment: asdf
+   accomplishments:
+    - accomplishment: Successfully finished the MostDev talent program, with courses by Capgemini
+
  - position: Project Engineer
    company: NHL Hogeschool
    location: Leeuwarden, the Netherlands
    dates: September 2016 - September 2017
    summary: As a project engineer at the NHL Centre of Expertise in Computer Science, I worked on automation using computer vision software.
-#   accomplishments:
-#    - accomplishment: asdf
-#    - accomplishment: asdf
+   accomplishments:
+    - accomplishment: Instructor for classes for the Computer Vision minor.
+    - accomplishment: Worked with students to create a Tensorflow neural network for recognition of production mistakes in parts.
+    - accomplishment: Rewritten a Windows Forms application for image processing, used for a medical research project.
+
  - position: Graduate Software Engineer
    company: Grendel Games
    location: Leeuwarden, the Netherlands
    dates: February 2016 - June 2016
    summary: For my graduation, I worked on a interface building plugin for Unity 3D, which can be used to drag and drop GUI elements into the scene.
-#   accomplishments:
-#    - accomplishment: asdf
-#    - accomplishment: asdf
+   accomplishments:
+    - accomplishment: Built a plugin for Unity 3D
+
  - position: Programming Intern
    company: Codeglue
    location: Rotterdam, the Netherlands
    dates: September 2014 - January 2015
-   summary: As a programming intern I worked on the multi-platform game Terraria. At this internship I programmed C++ and Java, using JNI to communicate between these languages.
-#   accomplishments:
-#    - accomplishment: asdf
-#    - accomplishment: asdf
+   summary: As a programming intern I worked on the mobile version of Terraria. At this internship I programmed C++ and Java, using JNI to communicate between these languages.
+   accomplishments:
+    - accomplishment: Used JNI to implement a cross-platform in-app purchases system for Google Play and the Amazon Store.
+    - accomplishment: Worked on Thanksgiving content for Terraria Mobile (Turkor the Ungrateful).
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
+#    - tr: "Impulsive, creative and very social"
   frontend:
   - name: Angular
     level: 90
