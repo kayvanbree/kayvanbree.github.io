@@ -9,15 +9,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://kayvanbree.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
-urls:
-    - text: Blog
-      url: /blog
-    - text: About Me
-      url: /about
-    - text: Contact Me
-      url : /contact
-    - text: Sample Page
-      url: /sample-page
+# urls:
+#     - text: Blog
+#       url: /blog
+#     - text: About Me
+#       url: /about
+#     - text: Contact Me
+#       url : /contact
+#     - text: Sample Page
+#       url: /sample-page
 
 # Edit these details 
 
