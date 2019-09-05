@@ -4,7 +4,7 @@ projectUrl: jekyl-cv-crafter
 # leave blank fields which you don't want to fill/be displayed
 person:
   name: Kay van Bree
-  depiction: headshot.png
+  depiction: headshot.jpg
   profession: Full Stack Developer
   location: Steenwijk
   citizenship: The Netherlands
