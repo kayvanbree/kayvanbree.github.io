@@ -23,9 +23,10 @@ career:
    dates: January 2018 - present
    summary: We are working on building a new Angular frontend for an old Delphi application.
    accomplishments:
-    - accomplishment: Written several Angular libraries
-    - accomplishment: Set up Jenkins declarative pipelines for all projects
-    - accomplishment: Migrated all Angular projects from SVN to Git
+    - accomplishment: Written several Angular libraries.
+    - accomplishment: Set up Jenkins declarative pipelines for all projects.
+    - accomplishment: Migrated all Angular projects from SVN to Git.
+    - accomplishment: Created a custom font using font-custom.
 
  - position: Software Engineer
    company: Yacht
@@ -51,7 +52,7 @@ career:
    dates: February 2016 - June 2016
    summary: For my graduation, I worked on a interface building plugin for Unity 3D, which can be used to drag and drop GUI elements into the scene.
    accomplishments:
-    - accomplishment: Built a plugin for Unity 3D
+    - accomplishment: Built a plugin for Unity 3D.
 
  - position: Programming Intern
    company: Codeglue
@@ -85,6 +86,12 @@ sideProjects:
     link: https://github.com/kayvanbree/f10k
     type: github
     langs: Angular/Spring Boot
+    
+  - name: Contexr
+    description: An Angular library that can be used to create context menus.
+    link: https://github.com/kayvanbree/contexr
+    type: github
+    langs: Angular
 
 education:
   - name: Christelijke Hogeschool Windesheim
