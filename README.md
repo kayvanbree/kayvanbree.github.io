@@ -1,40 +1,32 @@
-# Starter Template For devlopr-jekyll
+# Jekyll CV Crafter
 
-This repo is a faster way to build your Blog using the [devlopr-jekyll](https://devlopr.netlify.com) Jekyll Theme. The site will be then automatically built using Github Pages at http://yourusername.github.io
+[![Gem Version](https://badge.fury.io/rb/jekyll-cv-crafter.svg)](https://badge.fury.io/rb/jekyll-cv-crafter)
 
-# Steps to use this template: 
+Jekyll powered CV generator. 
+Check the [demo](http://pavelmakhov.com/jekyll-cv-crafter/).
 
-1. Create Your Blog Repository with name "**yourusername.github.io**", using the "**Use This Template** Button of this repo.
+## Features
 
-2. Clone The Repo Locally 
+ - Lightweight - just 3 files: yml with information about you, html/liquid template and css.
+ - Font Awesome icons + Bootstrap.
+ - Could be easily integrated in already existing site/blog hosted on Github using Jekyll [data](http://jekyllrb.com/docs/datafiles/) files.
+ - Data is separated from the view - just fill the YAML file to create your CV.
+ - You can easily modify the template or create a new theme according to your needs (check out [my CV](http://pavelmakhov.com/cv)).
+ 
+## Templates
 
-`$ git clone https://github.com/yourusername/yourusername.github.io`
+ - [vertical](http://pavelmakhov.com/jekyll-cv-crafter/cv-vertical) template (WIP)
+ - feel free to add yours! 
 
-3. Install Dependencies
+## Installation
 
-`$ bundle update`
-`$ bundle install`
+Clone/download this repo.
 
-4. Customize your site :
+ - `_data/cv.yml` contains info about you;
+ - `index.html` markup of the CV;
+ - `css/cv.scss` styles.
 
-You need to edit the `_config.yml` file to make the site your own.  
-
-4. Serve the Site 
-
-`$ bundle exec jekyll serve`
-
-5. Visit the site locally at http://localhost:4000
-
-After you are happy with your changes, you can push the changes
-
-```
-$ cd yourusername.github.io
-$ git add .
-$ git commit -m "my site changes"
-$ git push origin master"
-```
-You can visit your website, which will be live with your changes at http://yourusername.github.io
-
-
-
-
+So only thing you need to do is to fill the `cv.yml`. 
+As I mentioned above you can easily integrate this CV in your blog (if it's hosted on github pages) by putting `cv.yml` in `_data` folder of your blog, `cv.scss` in `css` folder of your blog and renaming `index.html` to `cv.html`.
+ 
+PRs/issues/comments are welcome! Don't hesitate to contact me in case of any questions.
