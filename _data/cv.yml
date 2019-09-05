@@ -59,17 +59,21 @@ career:
 #    - accomplishment: asdf
 
 technicalSkills:
-#  list:
-#    - tr: "Impulsive, creative and very social"
+  list:
+    - tr: "Impulsive, creative and very social"
+  frontend:
+  - name: Angular
+    level: 90
+  other:
+  - name: Git
+    level: 90
+  - name: Webstorm
+    level: 80
   backend:
    - name: Spring Boot Framework
      level: 70
-  frontend:
-   - name: Angular
-     level: 90
-  other:
-   - name: Git
-     level: 90
+   - name: MVC.NET
+     level: 70
 
 sideProjects:
   - name: f10k
