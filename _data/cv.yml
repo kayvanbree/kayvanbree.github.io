@@ -23,6 +23,7 @@ career:
    dates: January 2018 - present
    summary: We are working on building a new Angular frontend for an old Delphi application.
    accomplishments:
+    - accomplishment: Written a (proprietary) Angular library (simular to Golden Layout).
     - accomplishment: Written several Angular libraries.
     - accomplishment: Set up Jenkins declarative pipelines for all projects.
     - accomplishment: Migrated all Angular projects from SVN to Git.
@@ -62,6 +63,14 @@ career:
    accomplishments:
     - accomplishment: Used JNI to implement a cross-platform in-app purchases system for Google Play and the Amazon Store.
     - accomplishment: Worked on Thanksgiving content for Terraria Mobile (Turkor the Ungrateful).
+    
+- position: Programming Intern
+  company: Isala
+  location: Zwolle, the Netherlands
+  summary: Together with two classmates, we created a MVC.NET application with API in 10 weeks. The API has since been used to build a mobile application.
+  accomplishments:
+   - accomplishment: Written an MVC.NET application
+   - accomplishment: Written a MVC.NET Rest API
 
 technicalSkills:
   list:
